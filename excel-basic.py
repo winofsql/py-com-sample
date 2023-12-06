@@ -1,4 +1,4 @@
-# python -m pip openpyxl install openpyxl
+# python -m pip install openpyxl
 import openpyxl
 import traceback
 import sys
